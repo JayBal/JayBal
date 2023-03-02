@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayBal
 - 👀 I’m interested in Information Security, Computer Networking, Coding, Exploits, Open source.
-- 🌱 I’m currently learning Python, C , HTML,CSS, Javascript, Reverse Engineering.
+- 🌱 Python, C , Web-Dev, Reverse Engineering, Breaking and Fixing Web Apps.
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: jackybaloyi.jb@gmail.com
 
