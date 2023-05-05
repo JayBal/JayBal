@@ -3,7 +3,7 @@
 - 🌱 Student Of The Net(SOTN).
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: jackybaloyi.jb@gmail.com
-- 📫 Medium Profile: https://medium.com/@thabisomokoena/
+- 📫 Catch my write-ups: https://medium.com/@thabisomokoena/
 
 <!---
 JayBal/JayBal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
