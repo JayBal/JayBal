@@ -3,7 +3,6 @@
 - 🌱 Student of The Net (SOTN).
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: jackybaloyi.jb@gmail.com
-- 📫 Catch my write-ups: https://medium.com/@jackybaloyi
 - 🌱 Professional Security Analyst
 
 <!---
